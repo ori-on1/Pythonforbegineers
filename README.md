@@ -1,5 +1,5 @@
 
-# Pythonforbefineers:
+# Pythonforbegineers:
 <h2 align="center" markdown="1"> About this Repo.</h2>
 This project stores basic programs of <b>Python. Offices</b> Created to teach Basic Python For Begineers.
 
