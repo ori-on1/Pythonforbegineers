@@ -9,6 +9,7 @@ Please follow guidelines in <a href="./CONTRIBUTING.md">CONTRIBUTING </a>before 
 ---
 - [x] Fork this repository,
 - [x] Clone the fork,
+- [ ] Register Yourself as Participant,
 - [x] Make changes,
 - [x] Commit and mention what changes you've made,
 - [x] Push to origin,
