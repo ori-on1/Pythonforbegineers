@@ -1,12 +1,12 @@
 # Register Yourself as Participant:
 
-{
-  "praticipants": [
-    {
-      "name": "Your Name",
-      "school/university": "Name of your school/university",
-      "facebook": "your facebook handle",
-      "about": "Something about yourself"
+{<br>
+  "praticipants": [<br>
+    {<br>
+      "name": "Your Name",<br>
+      "school/university": "Name of your school/university",<br>
+      "facebook": "your facebook handle",<br>
+      "about": "Something about yourself"<br>
     },
 
 
