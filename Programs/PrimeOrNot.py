@@ -6,3 +6,9 @@ def is_prime(n):
     if n % i == 0:
       return False
   return True
+
+n = float(input("Enter number: "))
+if is_prime(n):
+  print(f"{n} is a prime number.")
+else:
+  print(f"{n} is not a prime number.")
