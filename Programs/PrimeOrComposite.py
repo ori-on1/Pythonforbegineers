@@ -11,3 +11,9 @@ def is_prime(n):
 def is_composite(n):
   """Returns True if n is a composite number, False otherwise."""
   return not is_prime(n)
+
+n = float(input("Enter number: "))
+if is_prime(n):
+  print(f"{n} is a prime number.")
+else:
+  print(f"{n} is a composite number.")
