@@ -1,7 +1,7 @@
 
 # Pythonforbegineers:
 <h2 align="center" markdown="1"> About this Repo.</h2>
-This project stores basic programs of <b>Python. Offices</b> Created to teach Basic Python For Begineers.
+This project stores basic programs of <b>Python.</b> Created to teach Basic Python For Begineers.
 
  <h2 align="center" markdown="1">Contribute to this repository</h2>
 Please follow guidelines in <a href="./CONTRIBUTING.md">CONTRIBUTING </a>before making your PR.
